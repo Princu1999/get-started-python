@@ -1,3 +1,5 @@
+"THIS IS MY FIRST GIT COMMIT"
+
 from cloudant import Cloudant
 from flask import Flask, render_template, request, jsonify
 import atexit
